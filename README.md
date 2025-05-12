@@ -105,6 +105,10 @@ Interactive Tableau dashboards are located in the `/tableau` folder and provide 
 - Medical condition patterns
 - Test result distributions
 - Financial comparisons
+- Trends Over Time
+
+
+<img width="993" alt="dashboard healthcare" src="https://github.com/user-attachments/assets/0db4311d-f8e2-48da-a272-8b6cd7eae597" />
 
 ---
 
